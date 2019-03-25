@@ -1,0 +1,1076 @@
+/*
+Custom CSS
+*/
+
+
+
+	
+body
+{
+   font-family: 'Proxima Nova';
+   font-style: normal;
+    overflow-x: hidden;
+	border: none;
+	padding: 0px;
+    
+}
+
+.back
+{
+    background-color: black;
+    padding: 0px;
+	
+  
+}
+
+h2
+{
+
+font-weight: 800;
+font-style: bold;
+font-size: 52px;
+}
+
+h3
+{
+
+font-weight: 300;
+font-size: 20px;
+}
+
+h1
+{
+
+font-weight: 800;
+font-size: 20px;
+}
+
+p
+{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    
+}
+
+
+
+
+/* Add a black background color to the top navigation */
+/*
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+*/
+
+/* Style the links inside the navigation bar */
+/*
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+*/
+
+/* Change the color of links on hover */
+/*
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+*/
+
+/* Add a color to the active/current link */
+/*
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+*/
+
+/* Right-aligned section inside the top navigation */
+/*
+.topnav-right {
+  float: right;
+
+*/
+
+
+/*
+.over
+{
+    margin-right: 10px;
+    padding-right: 5px;
+    padding-left: 300px;
+    margin-left: 300px;
+    
+}
+*/
+
+/*
+.over_one
+{
+    margin-left: 707px;
+}
+
+
+.over_two
+{
+   margin-left: 85px; 
+}
+
+
+.over_three
+{
+    margin-left: 54px;
+}
+*/
+
+
+
+
+.navbar-brand
+{
+    font-weight: 800;
+    font-style: bold;
+    font-size: 20px;
+	color: black;
+ 
+}
+
+.brand
+{
+	color: white;
+	font-weight: 800;
+}
+
+.brands
+{
+	color: black;
+	font-weight: 800;
+}
+
+
+.navbar-brand:hover
+{
+	color: yellow;
+    
+}
+
+/*
+.brand
+{
+    background-image: url(../img/breakdown_v1.svg);
+   height: 40px;
+}
+*/
+
+
+ ul
+{
+/*    overflow: hidden;*/
+    float: right;
+    
+}
+
+ ul li 
+{
+      float: left;
+    list-style: none;
+}
+
+.fun ul li a 
+{   
+    color: white;
+    padding: 0 150px; 
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.sun ul li a
+{
+    color: black;
+    padding: 0 150px; 
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.sun ul li a:hover
+{
+      color: black;
+     text-decoration: none;
+    font-weight: 800;
+}
+
+
+ ul li a:hover 
+{
+    color: white;
+     text-decoration: none;
+    font-weight: 800;
+}
+
+ul li a:active
+{
+    color: yellow;
+}
+
+
+
+
+
+/*
+ul {text-align: right;
+    width: 100%;  
+    height: 20px;}
+
+li {float: right;}
+
+ul a {  color: white;
+        padding: 0 150px;
+       
+        font-weight: 300;
+        font-size: 20px;
+        text-decoration: none;
+    }
+ul a:hover 
+{   color: black;
+    text-decoration: none;
+
+}
+*/
+
+
+
+.one
+{
+    padding-bottom:350px;
+}
+
+/*
+.lineone
+{
+    padding-left: 25px;
+    width: 100px;
+  
+    
+}
+*/
+
+.latest
+{
+	max-width: 100px;
+	width: auto;
+	margin-left: 500px;
+	display: none;
+}
+
+
+.period
+{
+    padding-left: 220px;
+}
+
+#periodic_table > div {
+    margin-bottom: 10%;
+    
+}
+
+#periodic_table > div > div {
+	width: 70px;
+    height: auto;
+	display: inline-block;
+	margin-right: -7px;
+	background-color: black;
+	
+	
+    
+    
+    
+}
+
+#periodic_table > div > div > div {
+    border: 2px solid white;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    color: black;
+    height: 70px;
+  
+  
+}
+
+
+.la
+{
+	background-image: url(../img/SVG/period_la_w.svg);
+	
+	height: 150px;
+	width: auto;
+}
+
+.la:hover
+{
+	background-image:url(../img/SVG/period_la.svg);
+
+	
+}
+
+
+/*Projects*/
+
+.project_one
+{
+    padding-top: 60px;
+}
+
+.line_one
+
+{
+    background-image: url(../img/11_column_3.svg);
+    height: 1px;
+  
+}
+
+.project_two
+{
+    padding-top: 20px;
+}
+
+.breakdown_type
+{
+    max-width: 300px;
+    height: 121px;
+    padding-left: 140px;
+}
+
+.project
+{
+    font-weight: 800;
+    font-size: 48px;
+    color: black;
+/*    padding-left: 20px;*/
+    line-height: 65px;
+    
+ 
+}
+
+/*
+.image
+{
+    max-width: 230px;
+    max-height: 90px;
+    margin-top: -145px;
+    margin-left: 140px;
+}
+
+.images
+{
+    max-width: 330px;
+    max-height: 60px;
+    margin-top: 5px;
+    margin-left: 140px;
+
+ 
+    
+}
+*/
+
+.projects
+{
+    font-weight: 800;
+    font-size: 48px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 20px;
+}
+
+
+
+.project_breakdown
+{
+    padding-left: 100px;
+   
+}
+
+.project_three
+{
+    padding-top: 60px;
+}
+
+.blackcircle_one
+{
+   
+    background-image: url(../img/testhover_1.svg);
+    background-repeat: no-repeat;
+    background-position: 160px;
+    height: 250px;
+    margin-top: 50px;
+    
+   
+   
+    
+}
+
+.blackcircle_one:hover
+{
+    background-image: url(../img/testhover_v11.svg);
+    background-repeat: no-repeat;
+    height: 250px;
+    
+    
+    
+}
+
+
+.blackcircle_two
+{
+    background-image: url(../img/testhover_v2.svg);
+    background-repeat: no-repeat;
+    background-position: 110px;
+   
+    height: 350px;
+}
+
+
+.blackcircle_two:hover
+{
+    background-image: url(../img/testhover_v3.svg);
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+
+
+.blackcircle_three
+{
+   
+    background-image: url(../img/testhover_1.svg);
+    background-repeat: no-repeat;
+    background-position: 160px;
+    height: 250px;
+    margin-top: 40px;
+}
+    
+.blackcircle_three:hover
+{
+    background-image: url(../img/testhover_v11.svg);
+    background-repeat: no-repeat;
+    height: 250px;
+    
+}
+
+.blackline_one
+{
+    background-image: url(../img/SVG/blackline_1.svg);
+    background-repeat: no-repeat;
+    height: 90px;
+    background-position: 280px;
+}
+
+.blackline_two
+{
+    background-image: url(../img/SVG/blackline_1.svg);
+    background-repeat: no-repeat;
+    height: 90px;
+    background-position: 285px;
+}
+
+.blackline_three
+{
+    background-image: url(../img/SVG/blackline_1.svg);
+    background-repeat: no-repeat;
+    height: 90px;
+    background-position: 285px;
+}
+
+.project_four
+{
+    padding-top: 10px;
+}
+
+.line_height_1
+{
+    line-height: 5px;
+    
+}
+
+
+
+.project_five
+{
+    padding-top: 200px;
+}
+
+.project_type
+{
+    max-width: 100%;
+    height: auto;
+    margin-left: 125px;
+  
+}
+
+.project_six
+{
+    padding-top: 25px;
+}
+
+.project_seven
+{
+    padding-bottom: 110px;
+}
+
+.project_eight
+{
+    padding-bottom: 20px;
+}
+
+.footer
+{
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+.footer a:link
+{
+    color: black;
+    text-decoration: none;
+    
+}
+
+.footer a:hover
+{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    
+}
+
+
+
+.footers
+{
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 20px;
+   
+}
+
+.footers a:link
+{
+    color: black;
+    text-decoration: none;
+    
+}
+
+.footers a:hover
+{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    
+}
+
+
+.footerss
+{
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 60px;
+   
+}
+
+.footerss a:link
+{
+    color: black;
+    text-decoration: none;
+    
+}
+
+.footerss a:hover
+{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    
+}
+
+.project_nine
+{
+    padding-bottom: 50px;
+}
+
+/*
+#owl-1 .owl-carousel.owl-drag .owl-item{
+  margin-right: 0 !important;
+}
+#owl-2 {
+  margin-top: 10px;
+}
+.btns{
+  display: table;
+  margin: 100px auto;
+ display: inline;
+   
+*/
+
+.carousel-control-prev
+{
+	height:1500px;
+	width: 50px;
+}
+
+.carousel-control-next
+{
+	height:1500px;
+	width: 50px;
+}
+
+.but
+{
+	height: 50px;
+	width: auto;
+	
+}
+
+ a:link
+{
+	color: black;
+	
+}
+
+
+
+
+
+
+.customNextBtn
+{
+    background-image: url(../img/leftbutton_v1.svg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+/*
+.customPreviousBtn
+{
+    float: right;
+    background: #2d9070;
+    color: #fff;
+    padding: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+*/
+
+.customPreviousBtn
+{
+    background-image: url(../img/rightbutton_v1.svg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+
+/*catalogue*/
+
+.catalogue_one
+{
+	padding-top: 60px;
+}
+
+
+.youthrevolt_type
+{
+    max-width: 300px;
+    height: 121px;
+	padding-left: 155px;
+}
+
+
+.cat_info
+{
+	padding-left: 160px;
+	padding-bottom: 50px;
+	max-width: 100%;
+	padding-top: 100px;
+}
+
+.catalogue_two
+
+{
+    padding-top: 20px;
+}
+
+.cat_list
+{
+	max-width: 100%;
+}
+
+.line_two
+{
+    max-width: 91%;
+	height: 1px;
+	padding-left: 155px;
+  
+}
+.catalogue_three
+{
+	padding-bottom: 85px;
+}
+
+
+.back_two
+{
+	background-color: #f8f8f8;
+}
+
+.catalogue_four
+{
+	padding-bottom: 50px;
+}
+
+.cat_header_one
+{
+	
+	padding-left: 100px;
+}
+
+.catalogue_five
+{
+	padding-bottom: 10px;
+}
+
+
+.cat_image_one
+{
+	display: block;
+}
+
+/*motyf*/
+
+
+.motyf_shift_type
+{
+   
+	padding-left: 160px;
+}
+
+
+
+.mot_header_one
+{
+	
+	padding-left: 140px;
+}
+
+.mot_five
+{
+	padding-bottom: 10px;
+}
+
+
+/*jass*/
+
+
+.jass_header_one
+{
+	
+	padding-left: 140px;
+}
+
+.jass_one
+{
+	padding-bottom: 10px;
+}
+
+
+/*
+.cat_write
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.cat_titles_two
+{
+	pa
+}
+
+.cat_titles
+{
+	padding-top: 30px;
+}
+*/
+
+
+
+/*Data*/
+
+#myBtn {
+    
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-image: url(../img/topbutton.svg);
+    width: 50px;
+    height: 50px;
+   
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+	
+}
+
+
+
+/*connect*/
+
+/*
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+*/
+
+
+
+/*
+.fiddleone {
+	background-image: url(../img/SVG/period_au.svg);
+	background-repeat: no-repeat;
+	height: 150px;
+	width: auto;
+    
+   
+*/
+   
+
+/*
+.fiddle:first-child a {
+    border-top: none;
+}
+*/
+
+/*
+.fiddleone:hover {
+    background-image: url(../img/SVG/period_c.svg);
+    height: 150px;
+	width: auto;
+	background-repeat: no-repeat;
+}
+*/
+
+/*
+img {
+    
+    display: none;
+    height: 150px;
+    right: 0;
+    top: 0;
+    width: auto;
+}
+*/
+
+/*
+.fiddletwo
+{
+	
+    height: 150px;
+	width: auto;
+   
+}
+*/
+
+/*
+.fiddleone:hover + img,
+img:hover {
+    display: block;
+	height: 150px;
+	width: auto;
+}
+*/
+
+
+
+/*
+.image1
+{
+	background-image: url(../img/SVG/period_aW.svg);
+	height: 150px;
+	width: auto;
+	background-repeat: no-repeat;
+		
+}
+
+
+.image1:hover {
+	background-image: url(../img/SVG/period_a.svg);
+	height: 150px;
+	width: auto;
+}
+
+.images
+
+.image1:hover .imagesToFadeIn {
+    opacity: 1;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+/*
+.adjust-font .post__title
+{
+    padding-top: 9px;
+}
+
+::selection
+{
+    background: yellow;
+    color: black;
+    text-shadow: none;
+}
+*/
+
+   
+
+
+/* 
+# Responsive breakpoints
+# https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints
+Extra small   <576px  	.col-
+Small         ≥576px    .col-sm-
+Medium        ≥768px    .col-md-
+Large         ≥992px    .col-lg-
+Extra large   ≥1200px   .col-xl-
+*/
+
+/* Apply these rules if the screen width is LESS than 576px */
+
+@media(max-width: 576px) 
+{
+	
+	.cat_image_one
+{
+	display: block;
+}
+
+
+
+}
+		
+	
+
+	
+	
+ 
+
+
+/* Apply these rules if the screen width is GREATER than 576px */
+
+/*
+@media (min-width: 576px) {
+  div[class^="col"]{
+    border-style: solid;
+    border-color:white;
+  }
+}
+*/
+
+/* Apply these rules if the screen width is GREATER than 768px */
+
+/*
+@media (min-width: 768px) {
+  div[class^="col"]{
+    border-style: solid;
+    border-color:blue;
+  }
+}
+*/
+
+/* Apply these rules if the screen width is GREATER than 992px */
+
+/*
+@media (min-width: 992px) {
+  div[class^="col"]{
+    border-style: solid;
+    border-color:yellow;
+  }
+}
+*/
+
+/* Apply these rules if the screen width is GREATER than 1200px */
+
+/*
+@media (min-width: 1200px) {
+  div[class^="col"]{
+    border-style: solid;
+    border-color:red;
+  }
+*/
