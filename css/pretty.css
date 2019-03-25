@@ -3,8 +3,9 @@
 	
 body
 {
-   font-family: 'Proxima Nova';
-   font-style: normal;
+   font-family: 'proxima-nova', sans-serif;
+	font-style: normal;
+	font-weight: 400;
     overflow-x: hidden;
 	border: none;
 	padding: 0px;
